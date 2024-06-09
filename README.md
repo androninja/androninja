@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Agrim Jain, currently working as a Senior Software Engineer at Citiustech. I am a Full-Stack Dot Net developer and love to solve complex problems and to come up with innovative solutions.
+I am Agrim Jain, currently working as a Senior Software Engineer at Citiustech. I am a Full-Stack Dot Net developer and love solving complex problems and coming up with innovative solutions.
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Agrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agrimjain/)](https://www.linkedin.com/in/agrimjain/)
