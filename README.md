@@ -3,8 +3,8 @@
 I am Agrim Jain, currently working as a Senior Software Engineer at Citiustech. I am a Full-Stack Dot Net developer and love to solve complex problems and to come up with innovative solutions. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Agrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agrimjain/)](https://www.linkedin.com/in/agrimjain/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrimjain27@gmail.com)](mailto:agrimjain27@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/14agrim)]([https://www.facebook.com/rashedul.alam.anik.2/](https://twitter.com/14agrim))
+[![Gmail Badge](https://img.shields.io/badge/-agrimjain27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrimjain27@gmail.com)](mailto:agrimjain27@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/@14agrim?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/14agrim)]([https://www.facebook.com/rashedul.alam.anik.2/](https://twitter.com/14agrim))
 
 
 ## ⚡ Technologies
