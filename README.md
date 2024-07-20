@@ -6,6 +6,7 @@ Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Agrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agrimjain/)](https://www.linkedin.com/in/agrimjain/)
 [![Gmail Badge](https://img.shields.io/badge/-agrimjain27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrimjain27@gmail.com)](mailto:agrimjain27@gmail.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/:14agrim)](https://twitter.com/14agrim)
+[![Leetcode Badge](https://iconscout.com/free-icon/leetcode-3521542)(https://leetcode.com/u/agrimjain000/)]
 
 
 ## ⚡ Technologies
